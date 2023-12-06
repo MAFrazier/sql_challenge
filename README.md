@@ -1,6 +1,6 @@
 # SQL challenge
 
-A research project about the employees at Pewlwtt Hackard during the 1980s and 1990s. 
+### A research project about the employees at Pewlwtt Hackard during the 1980s and 1990s. 
 
 There are 6 CSV Files of available data.
 
