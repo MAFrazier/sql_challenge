@@ -10,11 +10,12 @@ Using SQL database the following will be completed
 
 •	Import of CSV files
 
-•	Data modeling - Entity Relationship Diagram 
+•	Data Modeling - Entity Relationship Diagram 
 
-•	Data engineering
+•	Data Engineering
 
-•	Data analysis
+•	Data Analysis
+
    o	List the employee number, last name, first name, sex, and salary of each employee.
  
    o	List the first name, last name, and hire date for the employees who were hired in 1986.
