@@ -1,4 +1,4 @@
-#SQL challenge
+# SQL challenge
 
 A research project about the employees at Pewlwtt Hackard during the 1980s and 1990s. 
 
